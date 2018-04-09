@@ -1,0 +1,28 @@
+.container {
+  max-width: 750px;
+}
+button,a {
+  font-family: 'IM Fell DW Pica SC', serif;
+}
+#quote {
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+}
+
+p {
+  margin: 25px;
+}
+
+#grad {
+    background: linear-gradient(red, yellow);
+
+}
+
+h1{
+  font-family:'Lobster',Times New Roman;
+}
+
+body{
+  background-color: black;
+  color: white;
+}
